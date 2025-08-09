@@ -1,0 +1,3 @@
+[submodule "third-party/basically-basic"]
+	path = third-party/basically-basic
+	url = https://github.com/mmistakes/jekyll-theme-basically-basic.git

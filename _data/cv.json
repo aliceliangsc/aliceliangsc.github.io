@@ -1,0 +1,84 @@
+{
+  "basics": {
+    "name": "Alice Liang",
+    "label": "[Your professional title/role]",
+    "picture": "",
+    "email": "aliceliang0127@outlook.com",
+    "phone": "[Your phone number]",
+    "website": "",
+    "summary": "[Add a brief professional summary about yourself]",
+    "location": {
+      "address": "[Your address]",
+      "postalCode": "[Postal code]",
+      "city": "[Your city]",
+      "countryCode": "[Country code]",
+      "region": "[Your region/state]"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "aliceliangsc",
+        "url": "https://github.com/aliceliangsc"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "[your-username]",
+        "url": "[LinkedIn URL]"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "[Company Name]",
+      "position": "[Your Position]",
+      "website": "",
+      "startDate": "[YYYY-MM-DD]",
+      "endDate": "",
+      "summary": "[Description of your role and responsibilities]",
+      "highlights": [
+        "[Key achievement 1]",
+        "[Key achievement 2]"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "[University/School Name]",
+      "area": "[Field of Study]",
+      "studyType": "[Degree Type]",
+      "startDate": "[YYYY-MM-DD]",
+      "endDate": "[YYYY-MM-DD]",
+      "gpa": "",
+      "courses": [
+        "[Relevant Course 1]",
+        "[Relevant Course 2]"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "[Skill Category]",
+      "level": "[Proficiency Level]",
+      "keywords": [
+        "[Technology 1]",
+        "[Technology 2]",
+        "[Technology 3]"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "[Interest/Hobby]",
+      "keywords": [
+        "[Related keyword 1]",
+        "[Related keyword 2]"
+      ]
+    }
+  ]
+}
