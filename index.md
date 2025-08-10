@@ -9,7 +9,7 @@ introduction: |
 actions:
   - label: "LinkedIn"
     icon: linkedin
-    url: "https://linkedin.com/in/your-profile"
+    url: "https://linkedin.com/in/alice-liang-127sc"
 ---
 
 
