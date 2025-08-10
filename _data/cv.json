@@ -68,8 +68,17 @@
         "Investigated how urban park construction and revitalisation influence neighbouring communities, contributing to improved quality of life and urban vitality",
         "Analysed traditional planning of ancient Chinese cities and classical garden design, and their integration into contemporary urban and landscape practices"
       ]
-    }
-  ],
+    }],
+  "projects": [{
+    "name": "Project",
+    "startDate": "2019-01-01",
+    "endDate": "2021-01-01",
+    "description": "Description...",
+    "highlights": [
+      "Won award at AIHacks 2016"
+    ],
+    "url": "https://project.com/"
+  }],
   "skills": [
     {
       "name": "[Soffware]",
