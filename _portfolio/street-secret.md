@@ -8,7 +8,7 @@ tags:
     - City
     - Landscape
 
-last_modified_at: 2022-12-31T12:17:03-05:00
+date: 2022-12-31
 
 actions:
   - label: "Download PDF"
