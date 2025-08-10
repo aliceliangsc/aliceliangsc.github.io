@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Alice Liang",
-    "label": "[Landscape& Urban& Photography]",
+    "label": "Landscape& Urban& Photography",
     "picture": "",
     "email": "aliceliang0127@outlook.com",
-    "phone": "[(+44 07900121615]",
+    "phone": "(+44) 07900 121615",
     "website": "aliceliangsc.github.io",
-    "summary": "[A passionate urban spaces designer. I am passionate about connecting people, nature, and culture through design, bringing warmth and possibilities to cities.]",
+    "summary": "A passionate urban spaces designer. I am passionate about connecting people, nature, and culture through design, bringing warmth and possibilities to cities.",
     "location": {
       "city": "London",
       "countryCode": "UK"
@@ -21,67 +21,83 @@
   },
   "work": [
     {
-      "company": "[Suzhou Prost Ecological Technology Co., Ltd]",
-      "position": "[Assistant Landscape Designer ]",
+      "company": "Suzhou Prost Ecological Technology Co., Ltd",
+      "position": "Assistant Landscape Designer",
       "website": "",
-      "startDate": "[July 2022]",
-      "endDate": "[October 2022]",
-      "summary": "[Description of your role and responsibilities]",
+      "startDate": "June 2022",
+      "endDate": "October 2022",
       "highlights": [
-        "[Participated in field surveys, including site surveying and field interviews]",
-        "[Compiled background information, including site history and analysis of the surrounding environment]",
-        "[Produced urban analysis maps and models, and assisted in drawing masterplans]"
+        "Participated in field surveys, including site surveying and field interviews",
+        "Compiled background information, including site history and analysis of the surrounding environment",
+        "Produced urban analysis maps and models, and assisted in drawing masterplans"
       ]
     },
     {
-      "company": "[Suzhou Prost Ecological Technology Co., Ltd]",
-      "position": "[Assistant Landscape Designer ]",
+      "company": "Six Dimensions (Suzhou) Home Building Materials Co., Ltd.",
+      "position": "Designer Intern",
       "website": "",
-      "startDate": "[July 2022]",
-      "endDate": "[October 2022]",
-      "summary": "[Description of your role and responsibilities]",
+      "startDate": "June 2021",
+      "endDate": "August 2021",
       "highlights": [
-        "[Participated in field surveys, including site surveying and field interviews]",
-        "[Compiled background information, including site history and analysis of the surrounding environment]",
-        "[Produced urban analysis maps and models, and assisted in drawing masterplans]"
+        "Assisted with house measurements and created CAD diagrams for penthouses and detached houses valued £800K-£2M+",
+        "Produced 3D models and photorealistic renderings for residential projects spanning 200-500m²",
+        "Communicated with clients and refined plans until they were satisfied"
       ]
     }    
   ],
   "education": [
     {
-      "institution": "[Architectural Association School of Architecture]",
-      "studyType": "[MSc Landscape Urbanism]",
-      "startDate": "[YYYY-MM-DD]",
-      "endDate": "[YYYY-MM-DD]",
-      "courses": [
-        "[Relevant Course 1]",
-        "[Relevant Course 2]"
+      "institution": "Architectural Association School of Architecture",
+      "studyType": "MSc Landscape Urbanism",
+      "startDate": "September 2023",
+      "endDate": "September 2024",
+      "highlights": [
+        "Utilised an interdisciplinary, multi-scale approach to examine socio-economic and health-related crises arising from global urbanisation
+ from geographical, policy, and ecological perspectives, focusing on developing urban spatial policies",
+        "Explored how existing and incremental policies can create equitable landscapes that benefit local communities"
+        "Applied visualisation tools (GIS, coding, interactive mapping, Blender) for data generation and modelling"
+        "Thesis: Growth Help - an online platform connecting vacant landowners with food banks to facilitate community food growing and
+address urban food poverty"
+      ]
+    }
+ {
+      "institution": "Tianping College of Suzhou University of Science and Technologye",
+      "studyType": "BEng Landscape Architecture",
+      "startDate": "September 2019",
+      "endDate": "June 2023",
+      "highlights": [
+        "Researched urban regeneration and community park development in historic Chinese cities, focusing on vulnerable groups and
+social issues",
+        "Investigated how urban park construction and revitalisation influence neighbouring communities, contributing to improved quality
+of life and urban vitality"
+        "Analysed traditional planning of ancient Chinese cities and classical garden design, and their integration into contemporary urban
+and landscape practices"
       ]
     }
   ],
   "skills": [
     {
-      "name": "[Skill Category]",
-      "level": "[Proficiency Level]",
+      "name": "[Soffware]",
       "keywords": [
-        "[Technology 1]",
-        "[Technology 2]",
-        "[Technology 3]"
+        "ArcGIS, Rhino, Adobe Creative Suite (Photoshop, Illustrator, InDesign, etc.), SketchUp, Figma, AutoCAD, Blender, Microsoff Office, Lumion, Procreate, CapCut",
       ]
     }
   ],
   "languages": [
     {
       "language": "English",
-      "fluency": "Native speaker"
+      "fluency": "fluent"
+    }
+    {
+      "language": "Mandarin",
+      "fluency": "native"
     }
   ],
   "interests": [
     {
-      "name": "[Interest/Hobby]",
+      "name": "[Photography]",
       "keywords": [
-        "[Related keyword 1]",
-        "[Related keyword 2]"
+        "Freelance, specialising in urban landscape and portrait with commercial project experience",
       ]
     }
   ]
