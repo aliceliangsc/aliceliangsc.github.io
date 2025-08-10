@@ -5,25 +5,17 @@
     "picture": "",
     "email": "aliceliang0127@outlook.com",
     "phone": "[(+44 07900121615]",
-    "website": "",
+    "website": "aliceliangsc.github.io",
     "summary": "[A passionate urban spaces designer. I am passionate about connecting people, nature, and culture through design, bringing warmth and possibilities to cities.]",
     "location": {
-      "address": "[London, UK]",
-      "postalCode": "[Postal code]",
-      "city": "[Your city]",
-      "countryCode": "[Country code]",
-      "region": "[Your region/state]"
+      "city": "London",
+      "countryCode": "UK"
     },
     "profiles": [
       {
-        "network": "GitHub",
-        "username": "aliceliangsc",
-        "url": "https://github.com/aliceliangsc"
-      },
-      {
         "network": "LinkedIn",
-        "username": "[Alice Liang]",
-        "url": "[www.linkedin.com/in/alice-liang-127sc]"
+        "username": "Alice Liang",
+        "url": "www.linkedin.com/in/alice-liang-127sc"
       }
     ]
   },
@@ -58,11 +50,9 @@
   "education": [
     {
       "institution": "[Architectural Association School of Architecture]",
-      "area": "[]",
       "studyType": "[MSc Landscape Urbanism]",
       "startDate": "[YYYY-MM-DD]",
       "endDate": "[YYYY-MM-DD]",
-      "gpa": "",
       "courses": [
         "[Relevant Course 1]",
         "[Relevant Course 2]"
