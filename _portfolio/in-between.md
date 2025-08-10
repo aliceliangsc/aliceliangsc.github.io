@@ -1,6 +1,6 @@
 ---
 title: "In Between"
-sub_title: Urban Design Project
+sub_title: Restoration and Enhancement of the vally
 
 categories:
     - Urban Design
