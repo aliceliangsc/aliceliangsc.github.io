@@ -24,7 +24,7 @@ introduction: |
 actions:
   - label: "Click here to view the full PDF"
     icon: pdf
-    url: "/assets/portfolio/street-secret.pdf"
+    url: "/assets/portfolio/in-between.pdf"
 
 image: 
   path: /assets/img/portfolio/02-full.jpg
@@ -36,4 +36,4 @@ image:
 
 <!--more-->
 
-<embed src="/assets/portfolio/street-secret.pdf" type="application/pdf" width="100%" style="height: auto; min-height: 50vh;" />
+<embed src="/assets/portfolio/in-between.pdf" type="application/pdf" width="100%" style="height: auto; min-height: 50vh;" />
