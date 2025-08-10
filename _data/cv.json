@@ -1,14 +1,14 @@
 {
   "basics": {
     "name": "Alice Liang",
-    "label": "[Your professional title/role]",
+    "label": "[Landscape& Urban& Photography]",
     "picture": "",
     "email": "aliceliang0127@outlook.com",
-    "phone": "[Your phone number]",
+    "phone": "[(+44 07900121615]",
     "website": "",
-    "summary": "[Add a brief professional summary about yourself]",
+    "summary": "[A passionate urban spaces designer. I am passionate about connecting people, nature, and culture through design, bringing warmth and possibilities to cities.]",
     "location": {
-      "address": "[Your address]",
+      "address": "[London, UK]",
       "postalCode": "[Postal code]",
       "city": "[Your city]",
       "countryCode": "[Country code]",
@@ -22,30 +22,44 @@
       },
       {
         "network": "LinkedIn",
-        "username": "[your-username]",
-        "url": "[LinkedIn URL]"
+        "username": "[Alice Liang]",
+        "url": "[www.linkedin.com/in/alice-liang-127sc]"
       }
     ]
   },
   "work": [
     {
-      "company": "[Company Name]",
-      "position": "[Your Position]",
+      "company": "[Suzhou Prost Ecological Technology Co., Ltd]",
+      "position": "[Assistant Landscape Designer ]",
       "website": "",
-      "startDate": "[YYYY-MM-DD]",
-      "endDate": "",
+      "startDate": "[July 2022]",
+      "endDate": "[October 2022]",
       "summary": "[Description of your role and responsibilities]",
       "highlights": [
-        "[Key achievement 1]",
-        "[Key achievement 2]"
+        "[Participated in field surveys, including site surveying and field interviews]",
+        "[Compiled background information, including site history and analysis of the surrounding environment]"
+        "[Produced urban analysis maps and models, and assisted in drawing masterplans]"
       ]
-    }
+    },
+    {
+      "company": "[Suzhou Prost Ecological Technology Co., Ltd]",
+      "position": "[Assistant Landscape Designer ]",
+      "website": "",
+      "startDate": "[July 2022]",
+      "endDate": "[October 2022]",
+      "summary": "[Description of your role and responsibilities]",
+      "highlights": [
+        "[Participated in field surveys, including site surveying and field interviews]",
+        "[Compiled background information, including site history and analysis of the surrounding environment]"
+        "[Produced urban analysis maps and models, and assisted in drawing masterplans]"
+      ]
+    }    
   ],
   "education": [
     {
-      "institution": "[University/School Name]",
-      "area": "[Field of Study]",
-      "studyType": "[Degree Type]",
+      "institution": "[Architectural Association School of Architecture]",
+      "area": "[]",
+      "studyType": "[MSc Landscape Urbanism]",
       "startDate": "[YYYY-MM-DD]",
       "endDate": "[YYYY-MM-DD]",
       "gpa": "",
