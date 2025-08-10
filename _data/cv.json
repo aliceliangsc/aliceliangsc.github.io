@@ -15,7 +15,7 @@
       {
         "network": "LinkedIn",
         "username": "Alice Liang",
-        "url": "www.linkedin.com/in/alice-liang-127sc"
+        "url": "https://www.linkedin.com/in/alice-liang-127sc"
       }
     ]
   },
@@ -23,7 +23,6 @@
     {
       "company": "Suzhou Prost Ecological Technology Co., Ltd",
       "position": "Assistant Landscape Designer",
-      "website": "",
       "startDate": "June 2022",
       "endDate": "October 2022",
       "highlights": [
@@ -35,7 +34,6 @@
     {
       "company": "Six Dimensions (Suzhou) Home Building Materials Co., Ltd.",
       "position": "Designer Intern",
-      "website": "",
       "startDate": "June 2021",
       "endDate": "August 2021",
       "highlights": [
@@ -70,18 +68,18 @@
       ]
     }],
   "projects": [{
-    "name": "Project",
-    "startDate": "2019-01-01",
-    "endDate": "2021-01-01",
-    "description": "Description...",
+    "name": "Decoding Syntax: Urban Generative Design Network",
+    "startDate": "November 2024",
+    "endDate": "November 2024",
+    "description": "Project in Workshop \"Computational Design: An AI-Empowered Transformation of Architecture\"",
     "highlights": [
-      "Won award at AIHacks 2016"
-    ],
-    "url": "https://project.com/"
+      "Learned and researched how the construction industry is driving innovation through artificial intelligence",
+       "Simulated urban development prospects with high-efficiency models on the ArchiWeb platform using open-source data"
+    ]
   }],
   "skills": [
     {
-      "name": "[Soffware]",
+      "name": "Software",
       "keywords": [
         "ArcGIS, Rhino, Adobe Creative Suite (Photoshop, Illustrator, InDesign, etc.), SketchUp, Figma, AutoCAD, Blender, Microsoff Office, Lumion, Procreate, CapCut"
       ]
@@ -99,10 +97,11 @@
   ],
   "interests": [
     {
-      "name": "[Photography]",
+      "name": "Photography",
       "keywords": [
         "Freelance, specialising in urban landscape and portrait with commercial project experience"
       ]
     }
   ]
 }
+
